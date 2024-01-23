@@ -1,0 +1,6 @@
+@Инд.проект_HostAddress = http://localhost:5235
+
+GET {{Инд.проект_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
